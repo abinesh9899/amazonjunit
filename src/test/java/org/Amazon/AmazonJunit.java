@@ -32,5 +32,10 @@ public class AmazonJunit extends MainClass {
 	public static void After_Class() {
 		Browser_Close();
 	}
+	
+	private void sysout1() {
+		System.out.println("qw");
+
+	}
 
 }
