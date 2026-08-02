@@ -33,8 +33,8 @@ public class AmazonJunit extends MainClass {
 		Browser_Close();
 	}
 	
-	private void sysout1() {
-		System.out.println("qw");
+	private void added() {
+		System.out.println("QA");
 
 	}
 
